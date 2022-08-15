@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.statementn{
+    color: green;
+}
+
+.sign-up {
+    background-color: purple;
+}
+
+.logo {
+    text-align: center;
+}
